@@ -21,6 +21,10 @@ h2 {
   color: purple;
   font-weight: bold;
 }
+.some-div .important {
+  color: purple;
+  text-transform: uppercase;
+}
 h3 {
   color: #0e10b2;
 }
