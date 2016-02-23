@@ -4,6 +4,11 @@ h1 {
 h2 {
   color: green;
 }
+.importan-block {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
 h3 {
   color: #0e10b2;
 }
